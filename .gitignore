@@ -2,7 +2,6 @@
 **/doc
 *.pkh
 *.ctxt
-*.bluej
 .DS_Store
 # Compiled class file
 *.class
