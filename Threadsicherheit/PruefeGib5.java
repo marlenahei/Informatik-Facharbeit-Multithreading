@@ -22,7 +22,7 @@ class PruefeGibThread extends Thread {
         for (int i = 0; i < 1000; i++) {
            int erwarte5 = gib5.gib5();
            if (erwarte5 != 5) {
-                System.out.println("fehler! erarte5=" + erwarte5);
+                System.out.println("Fehler! erwarte5=" + erwarte5);
             }
             
         }
